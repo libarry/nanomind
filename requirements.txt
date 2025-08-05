@@ -1,0 +1,9 @@
+# nanomind 核心依赖
+torch>=1.9.0
+numpy>=1.19.0
+scipy>=1.7.0
+tqdm>=4.60.0
+transformers>=4.20.0
+
+# 可选依赖（推荐安装）
+safetensors>=0.3.0
